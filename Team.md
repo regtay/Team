@@ -98,3 +98,17 @@ Interesting I see a link "Place holder link to team share"
 Well lets see what Burpsuite has to say about this
 
 https://github.com/regtay/Team/blob/main/images/Screen%20Shot%202021-04-23%20at%2010.26.24%20PM.png
+
+* what can intruder tell me about this
+
+https://github.com/regtay/Team/blob/main/images/Screen%20Shot%202021-04-23%20at%2010.33.47%20PM.png
+
+* does this allow us to see a known folder on the drive
+
+https://github.com/regtay/Team/blob/main/images/Screen%20Shot%202021-04-23%20at%2010.27.38%20PM.png
+
+* lets send it to repeater
+
+https://github.com/regtay/Team/blob/main/images/Screen%20Shot%202021-04-23%20at%2010.27.55%20PM.png
+
+*
