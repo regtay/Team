@@ -87,11 +87,11 @@ ID           Response   Lines    Word       Chars    Payload
 000000689:   400        12 L     53 W       422 Ch   "gc._msdcs"
 ```
 
-went back to the host file
+Went back to the host file
 
-added dev.team.thm
+Added dev.team.thm
 
-* once added to the I navigated to http://dev.team.thm
+Once added to the I navigated to http://dev.team.thm
 
 Interesting I see a link "Place holder link to team share"
 
